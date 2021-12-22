@@ -4,7 +4,7 @@ $padding: 16px;
 
 body {
   font: 100% "Space Mono", monospace;
-  color: #2748b3;
+  color: $background-color;
   margin: 0px;
   padding: 0px;
   background-color: #000;
@@ -123,6 +123,6 @@ body {
 
   .warning {
     background-color: orange;
-    @extend .message;
+    @extend .messages;
   }
 }
