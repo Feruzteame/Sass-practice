@@ -85,10 +85,7 @@ article h6 {
   margin-bottom: 0px;
 }
 
-body .message,
-body .success,
-body .error,
-body .warning {
+.messages, body .message, body .warning, body .success, body .error {
   border: 1px solid #ccc;
   padding: 16px;
   margin: 16px;
