@@ -104,4 +104,9 @@ body .error {
 body .warning {
   background-color: orange;
 }
+
+body button {
+  background-color: blue;
+  color: white;
+}
 /*# sourceMappingURL=red.css.map */
